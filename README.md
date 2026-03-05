@@ -217,6 +217,7 @@ Dell OptiPlex 7010 — Proxmox VE Host (32GB RAM)
 | [001](incident-reports/001-cis-benchmark-finding.md) | CIS Benchmark Compliance Gap — Windows 10 | Medium | Open |
 | [002](incident-reports/002-network-reconnaissance.md) | Network Reconnaissance & Attack Simulation | High | Documented |
 | [003](incident-reports/003-kali-attack-simulation.md) | Kali Red Team Simulation — Firewall Down, Suricata Detection | High | Documented |
+| [004](incident-reports/004-suricata-deployment.md) | Suricata IDS Deployment & Network-Layer Detection | Medium | Documented |
 
 ---
 
