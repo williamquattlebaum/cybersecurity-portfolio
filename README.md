@@ -241,15 +241,35 @@ Coursework: Perimeter Defense, Network Security, Client System Security
 
 ---
 
+---
+
+### 🟣 Project 6: Splunk SIEM + TheHive IR Platform Deployment
+
+**Date:** March 6, 2026  
+**Tools:** Splunk Enterprise 9.3.2, TheHive 5.3, Docker, Cassandra, Elasticsearch
+
+Deployed two enterprise-grade security tools on dedicated Proxmox VMs:
+
+- **Splunk 9.3.2** (VM 203, 192.168.1.74) — industry-standard SIEM for log analysis and dashboards
+- **TheHive 5.3** (VM 204, 192.168.1.75) — open-source incident response platform for structured case management (Docker + Cassandra + Elasticsearch)
+
+The lab now has dual-SIEM coverage and a full IR workflow from detection to case closure.
+
+📄 [Full project write-up](projects/splunk-thehive-deployment.md)
+
+---
+
 ## Coming Soon
 
 - [x] Kali Linux attack VM — realistic red team exercises ✅
 - [x] Windows firewall disabled simulation — Suricata caught 28 alerts ✅
+- [x] Splunk SIEM deployment ✅
+- [x] TheHive incident response platform ✅
 - [ ] CIS Benchmark remediation — target >70% compliance
-- [ ] Active response configuration — auto-block attacking IPs
+- [ ] Splunk universal forwarder — ship endpoint logs to Splunk
+- [ ] TheHive + Wazuh integration — auto-create cases from alerts
 - [ ] TryHackMe SOC Level 1 path completion
-- [ ] ELK Stack integration
 
 ---
 
-*Last updated: March 2026 | Maintained by William Quattlebaum*
+*Last updated: March 6, 2026 | Maintained by William Quattlebaum*
