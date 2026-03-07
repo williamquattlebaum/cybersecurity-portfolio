@@ -33,7 +33,6 @@ Cybersecurity professional with a B.S. in Cybersecurity from Kennesaw State Univ
 ## Certifications
 
 - **CompTIA Security+**
-- **CompTIA Network+**
 - **Google Cybersecurity Professional Certificate**
 
 ---
