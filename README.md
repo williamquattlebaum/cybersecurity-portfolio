@@ -11,7 +11,7 @@ Cybersecurity professional with a B.S. in Cybersecurity from Kennesaw State Univ
 
 I take a hands-on approach to learning — everything in this portfolio was built, broken, fixed, and documented by me.
 
-**Certifications:** CompTIA Security+, CompTIA Network+, Google Cybersecurity Professional Certificate
+**Certifications:** CompTIA Security+, Google Cybersecurity Professional Certificate | CompTIA Network+ *(in progress)*
 
 ---
 
@@ -236,7 +236,7 @@ Coursework: Perimeter Defense, Network Security, Client System Security
 ## Certifications
 
 - CompTIA Security+
-- CompTIA Network+
+- CompTIA Network+ *(in progress)*
 - Google Cybersecurity Professional Certificate
 
 ---
