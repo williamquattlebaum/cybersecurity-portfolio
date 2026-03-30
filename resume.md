@@ -25,6 +25,10 @@ Cybersecurity professional with a B.S. in Cybersecurity from Kennesaw State Univ
 | Operating Systems | Ubuntu 22.04, Windows 10/Server, Kali Linux |
 | Scripting | PowerShell, Bash, Python |
 | Cloud & Network Design | Azure Sentinel, Azure AD P2, FortiGate NGFW, Cisco, Zero Trust |
+| Splunk | Splunk 9.3 |
+| TheHive | TheHive 5.3 |
+| Correlation | Alert correlation engine (Wazuh + Suricata) |
+| CVE Monitoring | NVD + CISA KEV watchdog |
 | Automation | OpenClaw AI agent, SSH orchestration, cron scheduling |
 | Version Control | Git, GitHub |
 
@@ -42,7 +46,7 @@ Cybersecurity professional with a B.S. in Cybersecurity from Kennesaw State Univ
 ### Home SOC Lab — Wazuh SIEM + Suricata IDS | *March 2026*
 *Proxmox VE | Ubuntu 22.04 | Wazuh 4.11 | Suricata 7.0 | Windows 10*
 
-- Designed and deployed a fully functional SOC lab from scratch on a Dell OptiPlex 7010 using Proxmox as the hypervisor, managing 3 VMs and a management container on 32GB RAM
+- Designed and deployed a fully functional SOC lab from scratch on a Dell OptiPlex 7010 using Proxmox as the hypervisor, managing 6 VMs and a management container on 32GB RAM
 - Deployed Wazuh all-in-one stack (Manager + Indexer/OpenSearch + Dashboard) via official installer on Ubuntu 22.04; enrolled Windows 10 endpoint as Agent ID 001
 - Installed Suricata 7.0 IDS on the Proxmox hypervisor host monitoring all VM-to-VM traffic at the vmbr0 bridge level, loading 48,786 active detection rules via suricata-update
 - Integrated Suricata with Wazuh via a dedicated host agent, creating a two-layer detection stack (host-based + network-based) following defense-in-depth architecture
