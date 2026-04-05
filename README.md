@@ -1,6 +1,6 @@
 # William Quattlebaum — Cybersecurity Portfolio
 
-📍 Lawrenceville, GA | 📧 williamquattlebaum@gmail.com | 📞 770-826-0832  
+📍 Lawrenceville, GA | 📧 williamquattlebaum@gmail.com  
 🔗 [github.com/williamquattlebaum/cybersecurity-portfolio](https://github.com/williamquattlebaum/cybersecurity-portfolio)
 
 ---
@@ -168,6 +168,17 @@ This closes the detection gap identified in Incident Report #002. Wazuh alone (h
 Designed a secure merged network architecture for two companies with distinct infrastructure environments. Identified vulnerabilities, proposed a hardened network topology with 4 segmented VLANs, and mapped compliance to HIPAA and PCI-DSS v4.0. Applied Zero Trust and Defense in Depth principles throughout.
 
 📁 [View Project](./merger-network-proposal/README.md)
+
+---
+
+### 🧰 Project 6: Job Tracker Cockpit — Application Workflow Dashboard
+
+**Date:** April 2026  
+**Tools:** Python, JSON, HTML/CSS/JavaScript, local API server, systemd
+
+Built a private local job-application cockpit to track applications, manage recruiter follow-ups, add fresh leads, and generate cover letters from a browser dashboard.
+
+📄 [Full project write-up](projects/job-tracker-cockpit.md)
 
 ---
 
